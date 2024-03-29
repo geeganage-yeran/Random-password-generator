@@ -7,4 +7,6 @@ Welcome to the Random Password Generator! This project is a simple, user-friendl
 <b><i>Easy to Use:</b></i> <br> A clean, intuitive interface ensures that anyone can generate a password quickly without any hassle.
 <br><b><i>No Back-end Processing:</b></i> <br> All password generation is done client-side, ensuring that generated passwords are never sent over the internet or stored on any server.
 
+![ScreenShot](screenshot.png)
+
 
