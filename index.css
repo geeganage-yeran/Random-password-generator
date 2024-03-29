@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+#content{
+    /*background-color: aqua;*/
+    display: block;
+    max-width: 500px;
+    margin: auto;
+    padding: 50px;
+    margin-top: -50px;
+}
+input[type="checkbox"]{
+    margin-right: 8px;
+}
+#output{
+    text-align: center;
+}
+#lengthtaker{
+    display:inline-block;
+    
+ 
+    
+}
+#generate{
+  padding: 15px;
+  font-size: 15px;
+  background: none;
+  border: none;
+  background-color: rgb(3, 59, 61);
+  color: white;
+  border-radius:25px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: 35px;
+}
+#generate:hover{
+    background-color:rgb(29, 98, 100) ;
+}
+#output{
+    background-color:rgb(128, 219, 223);
+    color:rgba(1, 17, 17, 0.822);
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bolder;
+    border-radius: 25px;
+}
+h1,h4{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    color:rgb(3, 59, 61);
+    
+}
+h4{
+    margin-top: -16px;
+    font-weight: lighter;
+    color:rgb(3, 59, 61);
+}
+label{
+    font-weight: bold;
+    margin-right: 8px;
+    color:rgb(3, 59, 61);
+    cursor: pointer;
+}
+img{
+    width: 300px;
+    margin: auto;
+    display: block;
+
+}
+#controller{
+    display: block;
+    max-width: 400px;
+    margin: auto;
+}
+#lengthvalue,#extra{
+    display:inline-block;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 5px;
+    padding: 2px;
+    color:rgb(3, 59, 61);
+}
